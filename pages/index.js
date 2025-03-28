@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Novas terras</h1>
+    return <h1>Novas terras. Deploying continuous!!</h1>
 }
 
 export default Home;
